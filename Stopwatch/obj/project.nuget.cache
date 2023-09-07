@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uerM9z2f1EfsmpbkorA1SIxpnWn7ILno9YyHQVBM0LRMFUBM1sQ1glCuxV7l+SpdDLyUn6nIvgh2DZ/AVCiPAA==",
+  "dgSpecHash": "PpJefLAWpbyOc5Siq1LAqk8ol7EH/bVZo9gcHnlOrsR+I0oo8YZGhCmQ8eTqf/9IToS3bGV//1f1bf1U3bB6Bw==",
   "success": true,
-  "projectFilePath": "/home/lucaomr/projeto/Stopwatch/Stopwatch.csproj",
+  "projectFilePath": "/home/lucaomr/Documentos/dotnet-projects/Stopwatch/Stopwatch.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
