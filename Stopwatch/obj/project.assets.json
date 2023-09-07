@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/lucaomr/projeto/Stopwatch/Stopwatch.csproj",
+      "projectUniqueName": "/home/lucaomr/Documentos/dotnet-projects/Stopwatch/Stopwatch.csproj",
       "projectName": "Stopwatch",
-      "projectPath": "/home/lucaomr/projeto/Stopwatch/Stopwatch.csproj",
+      "projectPath": "/home/lucaomr/Documentos/dotnet-projects/Stopwatch/Stopwatch.csproj",
       "packagesPath": "/home/lucaomr/.nuget/packages/",
-      "outputPath": "/home/lucaomr/projeto/Stopwatch/obj/",
+      "outputPath": "/home/lucaomr/Documentos/dotnet-projects/Stopwatch/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/lucaomr/.nuget/NuGet/NuGet.Config"
