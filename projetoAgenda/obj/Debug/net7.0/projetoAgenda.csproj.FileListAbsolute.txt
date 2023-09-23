@@ -1,0 +1,15 @@
+/home/lucaomr/dotnet-projects/projetoAgenda/bin/Debug/net7.0/projetoAgenda
+/home/lucaomr/dotnet-projects/projetoAgenda/bin/Debug/net7.0/projetoAgenda.deps.json
+/home/lucaomr/dotnet-projects/projetoAgenda/bin/Debug/net7.0/projetoAgenda.runtimeconfig.json
+/home/lucaomr/dotnet-projects/projetoAgenda/bin/Debug/net7.0/projetoAgenda.dll
+/home/lucaomr/dotnet-projects/projetoAgenda/bin/Debug/net7.0/projetoAgenda.pdb
+/home/lucaomr/dotnet-projects/projetoAgenda/obj/Debug/net7.0/projetoAgenda.csproj.AssemblyReference.cache
+/home/lucaomr/dotnet-projects/projetoAgenda/obj/Debug/net7.0/projetoAgenda.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucaomr/dotnet-projects/projetoAgenda/obj/Debug/net7.0/projetoAgenda.AssemblyInfoInputs.cache
+/home/lucaomr/dotnet-projects/projetoAgenda/obj/Debug/net7.0/projetoAgenda.AssemblyInfo.cs
+/home/lucaomr/dotnet-projects/projetoAgenda/obj/Debug/net7.0/projetoAgenda.csproj.CoreCompileInputs.cache
+/home/lucaomr/dotnet-projects/projetoAgenda/obj/Debug/net7.0/projetoAgenda.dll
+/home/lucaomr/dotnet-projects/projetoAgenda/obj/Debug/net7.0/refint/projetoAgenda.dll
+/home/lucaomr/dotnet-projects/projetoAgenda/obj/Debug/net7.0/projetoAgenda.pdb
+/home/lucaomr/dotnet-projects/projetoAgenda/obj/Debug/net7.0/projetoAgenda.genruntimeconfig.cache
+/home/lucaomr/dotnet-projects/projetoAgenda/obj/Debug/net7.0/ref/projetoAgenda.dll
