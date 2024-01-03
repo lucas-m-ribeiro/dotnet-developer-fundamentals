@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V9xieWfORB1hgYEll+l/KJqeSDj4hYX9hluvmD93FqyFdn9fqK0wtSRTB/99DSydoruxVBfXAPyWxZTKqeBuKQ==",
+  "dgSpecHash": "S/2BoG5fgXd4duOEY70257IMNDskd4+eNKB192o5QlphQkTZfyJUIGBhdZQIJUulWHJ4Z4QB4vKN2IzOm2N0EQ==",
   "success": true,
-  "projectFilePath": "/home/lucaomr/Documentos/dotnet-projects/Calculator/Calculator.csproj",
+  "projectFilePath": "/home/lucaomr/dotnet-projects/Calculator/Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
